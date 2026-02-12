@@ -1,0 +1,13 @@
+Conversation Summary:
+Turn 1:
+User: can you hear me
+Response: Yes, I can "hear" you in the sense that I can read your messages. How can I assist you today?
+
+Turn 2:
+User: Could not transcribe audio.
+Response: It seems like you're having trouble transcribing audio. Can you provide more details about the audio or the tool you're using for transcription? This might help me assist you better!
+
+Turn 3:
+User: Could not transcribe audio.
+Response: It sounds like you're still experiencing issues with audio transcription. Can you share more details about the audio file, such as its format, length, or the specific tool or software you're using to transcribe it? This information will help me provide more targeted assistance!
+

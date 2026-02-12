@@ -1,0 +1,16 @@
+
+--- Normal Run ---
+Transcribed Text: can you hear me
+LLM Response: Yes, I can. How can I assist you?
+ASR Latency: 0.38 seconds
+LLM Latency: 1.73 seconds
+TTS Latency: 0.20 seconds
+Total Latency: 2.31 seconds
+
+--- Error Run ---
+Transcribed Text: None
+LLM Response: Sorry, I didn't understand.
+ASR Latency: 1.60 seconds
+LLM Latency: 0.00 seconds
+TTS Latency: 0.14 seconds
+Total Latency: 1.74 seconds
